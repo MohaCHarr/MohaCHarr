@@ -19,12 +19,14 @@ still jobless atm 🥀🥀💔💔
 
 ### chinese-drone-hacking
 Reverse engineering a cheap generic drone. Sniffed comms, poked at firmware, generally just annoyed the thing until it talked back. A nice intro into hardware hacking and RF fun.
+Check it out @ : https://github.com/AdnaneCybR/chinese-drone-hacking
 
 ### PhantomNode (Private)
 A Discord RAT I made in Python for ✨educational purposes✨. Fully modular, handles system info, shell commands, file transfers, persistence, even RDP setup — and it’s still undetected, somehow. Honestly trash but it works, and that's what matters.
 
 ### SecNotes
 A raw dump of my notes from TryHackMe, HTB, random docs, and cursed StackOverflow threads. Use at your own risk (or benefit). Updated when I remember.
+Check them out @ : https://github.com/AdnaneCybR/SecNotes
 
 ## Training & Achievements
 
