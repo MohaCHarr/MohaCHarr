@@ -22,7 +22,7 @@ Reverse engineering a cheap generic drone. Sniffed comms, still trying to revers
 Check it out @ : https://github.com/AdnaneCybR/chinese-drone-hacking
 
 ### PhantomNode (Private)
-A Discord RAT I made in ✨Python✨ for ✨educational purposes✨. Fully modular, handles system info, shell commands, file transfers, persistence, even RDP setup — and it’s still undetected, somehow. Honestly trash but it works, and that's what matters.
+A Discord RAT I made in ✨Python✨ for ✨educational purposes✨. Fully modular, handles system info, shell commands, file transfers, persistence, even RDP setup  and it’s still undetected, somehow. Honestly trash but it works, and that's what matters.
 
 ### SecNotes
 A raw dump of my notes from TryHackMe, HTB, random docs, and cursed StackOverflow threads. Use at your own risk (or benefit). Updated when I remember.
@@ -56,8 +56,6 @@ Check them out @ : https://github.com/MohaCHarr/CHarr-SecurityNotes
 - Mostly on Kali Linux, sometimes Parrot, and yeah... Windows too
 
 ## Final Words
-
-This account's the clean one — check out [@AdnaneCybR](https://github.com/AdnaneCybR) for the messy bits. Some projects are private for obvious reasons.
 
 > everything here is just for educational purposes. don't be weird with it.
 
