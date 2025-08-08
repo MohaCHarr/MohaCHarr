@@ -1,66 +1,83 @@
-<!-- Maybe‌‌‌‌‍‌﻿‍‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‬‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬‬‬‌‌‌‌‍﻿‍‬‌‌‌‌‍‬‍‍‌‌‌‌‍﻿‍‍‌‌‌‌‍﻿‬‌‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿‌‌‌‌‌‍‬‌‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‌‌ ‌‌‌‌‍‬‌‍‌‌‌‌‍‬‬‍‌‌‌‌‍﻿‬‌‌‌‌‌‌‬‌‌maybe‌‌‌‌‍﻿‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍﻿‍‍‌‌‌‌‍﻿‌‬ ‌‌‌‌‌‬‌‌‌‌‌‌‍‌‍﻿‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‬‬‌‌‌‌‍‬‌‍maybe 💔💔🥀🥀 -->
+# **0xUnd3adBeef**
 
-# MohaCHarr
+*Offensive security enthusiast — Red teaming, pentesting, and tooling development*
 
-> c'est completement harr.
+---
 
-I'm Moha (short for Mohammad), a 15 y/o cyber enjoyer who got bored of video games and decided breaking stuff was more fun. Currently grinding through HTB Academy's CPTS cert and planning to hit OSCP after that. Got the eJPT, wrecked Dante Pro Lab, and even finished the Google Cybersecurity Coursera thing because… why not.
+## About
 
-still jobless atm 🥀🥀💔💔
+I’m a security student focused on **penetration testing**, **Active Directory exploitation** and **Web Exploitation**.
+My work blends **hands-on lab practice** with **custom tool development** — from post-exploitation frameworks to hardware hacking experiments.
 
-## What I Do
+Currently expanding my skill set through advanced lab environments, capture-the-flag challenges, and real-world simulation exercises.
 
-- Mess around with Python until something works (or doesn’t)
-- Learn how to break systems so I can *ethically* break more systems
-- Reverse engineer random stuff just to see if I can
-- Occasionally write decent scripts, mostly for fun
+---
 
 ## Selected Projects
 
-### chinese-drone-hacking
-Reverse engineering a cheap generic drone. Sniffed comms, still trying to reverse the app.
-Check it out @ : https://github.com/MohaCHarr/generic-drone-hacking
+### **GRA-T** — Modular Post-Exploitation Framework
 
-### GRA-T (Recently Opensourced)
-A Discord RAT I made in ✨Python✨ for ✨educational purposes✨. Fully modular, handles system info, shell commands, file transfers, persistence, even RDP setup and some of it's components are still undetected, somehow. Honestly trash but it works, and that's what matters.
+A Python-based post-exploitation toolkit with Discord control channel, plugin system, and multi-OS support.
 
-Check it out @ : https://github.com/MohaCHarr/GRA-T !!
+* Core features: system recon, shell execution, file transfer, persistence, RDP setup (Windows), modular plugins.
+* Designed for **authorized red-team operations** and lab research.
+  [Repo →](https://github.com/0xUnd3adBeef/GRA-T)
 
+### **Generic Drone Hacking**
 
-### SecNotes
-A raw dump of my notes from TryHackMe, HTB and random docs (cleaned a bit times to times). Use at your own risk (or benefit). Updated when I remember.
-Check them out @ : https://github.com/MohaCHarr/CHarr-SecurityNotes
+Reverse engineering a consumer drone: protocol sniffing, firmware analysis, app reverse-engineering.
+[Repo →](https://github.com/0xUnd3adBeef/generic-drone-hacking)
+
+### **SecurityNotes** — Offensive Security Knowledge Base
+
+Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
+[Repo →](https://github.com/0xUnd3adBeef/SecurityNotes)
+
+---
 
 ## Training & Achievements
 
-- 🎯 **HTB Academy**  
-  - Top 5% | 282 targets compromised  
-  - Completed 30+ modules across web, network, and privilege escalation  
-  - Modules include:  
-    - Windows & Linux Privilege Escalation  
-    - SQLi, Command Injection, File Uploads  
-    - AD Attacks, Pivoting & Tunneling, Metasploit, Ffuf, SQLMap  
-    - ...and everything in between
+* **Hack The Box Academy**
 
-- 🧠 **Certs**  
-  - eJPT (INE)  
-  - Google Cybersecurity Certificate
-  - Not a cert but I pwned the Dante ProLab
- 
-- 🎯 **Goals**
-  - Currently working on CPTS by HTB  
-  - OSCP as soon as possible
+  * Top 5% user ranking | 280+ targets compromised
+  * Completed 30+ modules covering:
 
-## Tech I Use (and break)
+    * Windows & Linux privilege escalation
+    * Active Directory attacks, pivoting, tunneling
+    * Web exploitation (SQLi, command injection, XSS)
+    * Metasploit, fuzzing, and custom tooling
 
-- Python, Bash, JavaScript  
-- Currently learning C and C++ to go deeper into exploit dev  
-- Tools like Burp Suite, Nmap, Metasploit, Wireshark  
-- Mostly on Kali Linux, sometimes Parrot, and yeah... Windows too
+* **Certifications**
 
-## Final Words
+  * eJPT (INE)
+  * Google Cybersecurity Certificate
+  * HTB CPTS -> *in progress*
 
-> everything here is just for educational purposes. don't be weird with it.
+* **Labs**
 
-still jobless btw, hmu if you're hiring pentesters with no experience but too much time.
+  * Completed Dante Pro Lab (Offensive Security)
+  * Active in HTB Pro Labs and private CTF environments
 
+---
+
+## Technical Stack
+
+**Languages & Scripting**
+
+* Python & Bash
+* Learning C & C++ for exploit dev and low-level tooling
+
+
+**Environments**
+
+* Kali, Parrot, Windows 10
+
+---
+
+## Contact
+
+* GitHub: [@0xUnd3adBeef](https://github.com/0xUnd3adBeef)
+
+---
+
+> All projects and code are intended for **authorized use only** in client-approved or lab environments.
