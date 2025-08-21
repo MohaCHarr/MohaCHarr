@@ -15,14 +15,6 @@ Currently expanding my skill set through advanced lab environments, capture-the-
 
 ## Selected Projects
 
-### **GRA-T** — Modular Post-Exploitation Framework
-
-A Python-based post-exploitation toolkit with Discord control channel, plugin system, and multi-OS support.
-
-* Core features: system recon, shell execution, file transfer, persistence, RDP setup (Windows), modular plugins.
-* Designed for **authorized red-team operations** and lab research.
-  [Repo →](https://github.com/0xUnd3adBeef/GRA-T)
-
 ### **Generic Drone Hacking**
 
 Reverse engineering a consumer drone: protocol sniffing, firmware analysis, app reverse-engineering.
@@ -39,7 +31,7 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 
 * **Hack The Box Academy**
 
-  * Top 5% user ranking | 280+ targets compromised
+  * Top 5% user ranking | 290+ targets compromised
   * Completed 30+ modules covering:
 
     * Windows & Linux privilege escalation
@@ -65,7 +57,7 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 **Languages & Scripting**
 
 * Python & Bash
-* Learning C & C++ for exploit dev and low-level tooling
+* Planning to learn C & C++ for exploit dev and low-level tooling
 
 
 **Environments**
@@ -77,7 +69,3 @@ Structured notes from CPTS/eJPT prep and lab work, optimized for Obsidian.
 ## Contact
 
 * GitHub: [@0xUnd3adBeef](https://github.com/0xUnd3adBeef)
-
----
-
-> All projects and code are intended for **authorized use only** in client-approved or lab environments.
